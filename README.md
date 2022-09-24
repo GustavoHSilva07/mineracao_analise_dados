@@ -1,0 +1,2 @@
+# mineracao_analise_dados
+BIG DATA ANALYTICS: MINERAÇÃO E ANÁLISES DE DADOS [TURMA 01B] - 2022/2
